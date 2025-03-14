@@ -1,0 +1,12 @@
+artifact_path: faiss_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.20.2
+model_size_bytes: 793589
+model_uuid: 48c63cbb5fb44174aca326f3111e5066
+run_id: 8609bbdf49ee40ee9203afa6dbfb59d1
+utc_time_created: '2025-03-12 05:21:41.434221'

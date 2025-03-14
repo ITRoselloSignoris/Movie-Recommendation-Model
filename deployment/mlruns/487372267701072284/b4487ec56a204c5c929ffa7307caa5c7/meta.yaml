@@ -1,0 +1,15 @@
+artifact_uri: /home/alumni/Programación/Proyectos/Data_Science/Recommendation_Model/src/notebooks/../../deployment/mlruns/487372267701072284/b4487ec56a204c5c929ffa7307caa5c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '487372267701072284'
+lifecycle_stage: active
+run_id: b4487ec56a204c5c929ffa7307caa5c7
+run_name: entertaining-rat-363
+run_uuid: b4487ec56a204c5c929ffa7307caa5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741133714114
+status: 1
+tags: []
+user_id: alumni

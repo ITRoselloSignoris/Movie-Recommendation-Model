@@ -1,0 +1,6 @@
+src/datasets/
+src/notebooks/
+src/scripts/
+deployment/gradio_app/
+deployment/mlruns/
+README.md

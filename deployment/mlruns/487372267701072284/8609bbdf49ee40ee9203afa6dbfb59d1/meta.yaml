@@ -1,0 +1,15 @@
+artifact_uri: /home/alumni/Programación/Proyectos/Data_Science/Recommendation_Model/src/notebooks/../../deployment/mlruns/487372267701072284/8609bbdf49ee40ee9203afa6dbfb59d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '487372267701072284'
+lifecycle_stage: active
+run_id: 8609bbdf49ee40ee9203afa6dbfb59d1
+run_name: caring-shrimp-43
+run_uuid: 8609bbdf49ee40ee9203afa6dbfb59d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741756901420
+status: 1
+tags: []
+user_id: alumni

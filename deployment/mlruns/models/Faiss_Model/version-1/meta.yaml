@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741758181486
+current_stage: Production
+description: ''
+last_updated_timestamp: 1741758196906
+name: Faiss_Model
+run_id: 8609bbdf49ee40ee9203afa6dbfb59d1
+run_link: ''
+source: /home/alumni/Programación/Proyectos/Data_Science/Recommendation_Model/src/notebooks/../../deployment/mlruns/487372267701072284/8609bbdf49ee40ee9203afa6dbfb59d1/artifacts/faiss_model
+status: READY
+status_message: null
+storage_location: /home/alumni/Programación/Proyectos/Data_Science/Recommendation_Model/src/notebooks/../../deployment/mlruns/487372267701072284/8609bbdf49ee40ee9203afa6dbfb59d1/artifacts/faiss_model
+user_id: null
+version: 1
