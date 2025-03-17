@@ -1,0 +1,15 @@
+artifact_uri: /home/alumni/Programación/Proyectos/Data_Science/Recommendation_Model/src/notebooks/../../deployment/mlruns/487372267701072284/772afefd9cc44a53b763f626c16fa136/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '487372267701072284'
+lifecycle_stage: active
+run_id: 772afefd9cc44a53b763f626c16fa136
+run_name: victorious-slug-866
+run_uuid: 772afefd9cc44a53b763f626c16fa136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742182605391
+status: 1
+tags: []
+user_id: alumni
