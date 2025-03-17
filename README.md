@@ -66,7 +66,7 @@ Finally, I saved both datasets, one for ***Collaborative Filtering*** and anothe
 - Data Visualization.
 - Data Preparation.
 - Model Training (Collaborative Filtering, Content-Based Filtering, KNN)
-- Index Training (Faiss, Annoy, )
+- Index Training (Faiss, Annoy)
 - Model deployment with an API and Docker.
 - Graphical User Interface with Gradio.
 
