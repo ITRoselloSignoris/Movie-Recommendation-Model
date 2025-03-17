@@ -5,8 +5,6 @@ MOVIES_PATH = "../datasets/raw_data/movies.csv"
 RATINGS_PATH = "../datasets/raw_data/ratings.csv"
 LINKS_PATH = "../datasets/raw_data/links.csv"
 
-
-
 def extract_year(df):
     year_of_release = []
     title_corrected = []
