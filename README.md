@@ -68,7 +68,7 @@ Finally, I saved both datasets, one for ***Collaborative Filtering*** and anothe
 - Model Training (Collaborative Filtering, Content-Based Filtering, KNN)
 - Index Training (Faiss, Annoy)
 - Model deployment with an API and Docker.
-- Graphical User Interface with Gradio.
+- Interactive Web App with Gradio.
 
 ## Technologies and Tools used
 ### <ins>1. Cleaning, Transformation and Data Preparation </ins> 
@@ -93,7 +93,7 @@ Finally, I saved both datasets, one for ***Collaborative Filtering*** and anothe
 - **Uvicorn**: Light and fast ASGI server that allows the asyncronous execution of the API.
 - **Requests**: Make HTTP requests to the API.
 - **Pydantic**: Validate the input data of the API.
-- **Gradio**: Graphical User Interface that allows the users to test the model.
+- **Gradio**: Interactive Web App that allows the users to test the model.
 
 ### <ins>5. Deployment</ins> 
 - **Docker**: Containerize the API and simplify its deployment.
